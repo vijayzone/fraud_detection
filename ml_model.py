@@ -8,4 +8,6 @@ def model2():
 
 def model3():
     print("Adding code for ML model1")
+    
+print("Model2"
             
